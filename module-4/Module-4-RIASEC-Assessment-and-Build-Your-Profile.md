@@ -1,6 +1,6 @@
 # RIASEC Profile Summary Activity
 
-This activity walks you through taking the RIASEC assessment, interpreting your results, and connecting them to everything you already know about yourself from Module 2. By the end, you will have a complete **RIASEC Profile Summary** in your GitHub portfolio.
+This activity walks you through taking the RIASEC assessment, interpreting your results, and connecting them to everything you already know about yourself from Module 2. By the end, you will shave a complete **RIASEC Profile Summary** in your GitHub portfolio.
 
 ---
 
