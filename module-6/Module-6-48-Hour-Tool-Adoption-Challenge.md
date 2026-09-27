@@ -25,11 +25,11 @@ Select a tool or app you have **never used before**. It should be:
 
 **Need ideas?** Ask your instructor for a list of suggested tools, or propose your own for approval before starting the clock.
 
-**Tool I am using:** _______________________________________
+**Tool I am using:** _____ NotebookLM__________________________________
 
-**Date/Time I am starting my 48 hours:** _______________________________________
+**Date/Time I am starting my 48 hours:** _____09/24/2026 7pm__________________________________
 
-**Date/Time my 48 hours ends:** _______________________________________
+**Date/Time my 48 hours ends:** ____09/26/2026 7pm___________________________________
 
 ---
 
@@ -42,7 +42,8 @@ Before you start learning, decide what "success" looks like. Choose **one** of t
 
 Write a one-sentence description of your specific goal:
 
-> [Your goal here]
+> [My goal is to learn how to use NotebookLM well enough to upload material from one of my classes and use it to create a
+useful study guide for reviewing cybersecurity 101 material.]
 
 ---
 
@@ -61,22 +62,32 @@ For each entry, note:
 - **How you felt** (be honest — overwhelmed, curious, bored, excited, embarrassed, etc.)
 
 **Journal Entry 1** — *(shortly after starting)*
-- What I tried:
-- What was confusing or frustrating:
-- What helped:
-- How I felt:
+- What I tried: I started by opening NotebookLM and creating a new notebook. I spent some time clicking around and trying
+to understand what the different sections were for.
+- What was confusing or frustrating: At first, I was not really sure how NotebookLM was different from a normal AI chatbot. I
+also did not know if I should upload a large amount of information or just start with one source
+- What helped: What helped the most was just experimenting with it instead of trying to understand every feature before using
+it.
+- How I felt: At first I felt a little lost, but I was also curious because the tool seemed like it could be useful for school.
 
 **Journal Entry 2** — *(partway through)*
-- What I tried:
-- What was confusing or frustrating:
-- What helped:
-- How I felt:
+- What I tried: I uploaded cybersecurity material from one of my classes and started asking NotebookLM questions about the
+source. I experimented with different prompts to see how much detail it would give me.
+- What was confusing or frustrating: The main problem was figuring out how specific my prompts needed to be. Some
+questions gave broad answers, so I had to change the wording to get something more useful.
+- What helped: Trial and error helped the most. Once I started giving it more direct instructions, the responses became easier
+to understand and more useful.
+- How I felt: I felt more confident at this point because I understood how the source and the prompts worked together.
 
 **Journal Entry 3** — *(near the end)*
-- What I tried:
-- What was confusing or frustrating:
-- What helped:
-- How I felt:
+- What I tried:  I asked NotebookLM to create a study guide and review based on my cybersecurity material. It created sections
+covering wireless security, data tracking, surveillance, privacy, cryptography, and organizational responsibilities.
+- What was confusing or frustrating: I was not sure how detailed the final study guide would be or whether it would organize
+the material in a way that would actually help me study.
+- What helped:  The way NotebookLM separated the information into different topics made the material easier to follow. It also
+explained concepts such as public Wi-Fi risks, Bluetooth security, tracking, encryption, and different types of cryptography.
+- How I felt: By the end, I felt much more comfortable using the tool. I could see how it could save time when reviewing large
+amounts of class material and help me focus on the most important information.
 
 *(Add more entries if you'd like — more honest detail is better than fewer, vague ones.)*
 
@@ -87,8 +98,13 @@ For each entry, note:
 By the end of the 48 hours, complete the goal you set in Step 2.
 
 **If you completed a small task:**
-- Briefly describe what you made or did:
-- Attach or link your finished task (screenshot, file, link, etc.) if applicable:
+- Briefly describe what you made or did: I used NotebookLM to create a study guide from cybersecurity material from one of
+my classes. I uploaded the source into the notebook and asked it to review the material and organize the main ideas into
+sections. The study guide covered topics such as wireless security, data tracking, surveillance, privacy, cryptography, and
+organizational responsibilities. I also used the tool to make the information easier to review by breaking larger topics into
+smaller sections.
+- Attach or link your finished task (screenshot, file, link, etc.) if applicable: https://notebook.google.com/notebook/6e18c8e1-03c3-4797-ac6d-fa8c647820a3
+  
 
 **If you taught a classmate:**
 - Who did you teach, and how (in person, video call, written guide)?
@@ -107,7 +123,17 @@ Write a reflection of **8–12 sentences** responding to the following:
 - How might this same approach help you the next time a new tool, app, or AI system shows up unexpectedly at school or work?
 
 **My Reflection:**
-[Your response here]
+[Initially, I found it hard to learn NotebookLM because I did not understand what exactly separated it from a
+normal AI chat bot, and I was unsure about what kind of source I was meant to upload and the level of detail that was needed in
+a prompt. The strategy that helped me to learn the most quickly was trial and error because I gained more by using the tool than
+by reading about it, so I uploaded my material and started asking different questions to learn the system. I understood the
+system much more once I uploaded the material relating to my study subject and asked a range of questions. I felt very
+differently about the system during the challenge as I began very confused, whereas I now felt very comfortable using the tool. I
+realized that I understand and learn new technology best when I start testing it out rather than trying to learn it fully before I use
+it. The time limit focused me on the fundamental features that were actually useful, rather than trying to learn every feature. The
+study guide test showed me that I could see the tool being useful for reviewing information for a big test and that I could see
+myself using a very similar tool again. If I had to learn a new tool at school or at work, I would use the same step-by-step
+approach I used in this challenge.]]
 
 ---
 
